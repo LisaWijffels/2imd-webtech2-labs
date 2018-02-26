@@ -10,6 +10,7 @@ https://github.com/LisaWijffels/GitToWork
 <h2>Week 2</h2>
 
 https://github.com/CarolineVG/webtech_team1
+https://codepen.io/CarolineVG/project/editor/AyLLdM
 
 ![alt text](https://drive.google.com/open?id=1Khp0t_JbKstInVlqhzGH00ga-FfwNcNd)
 
